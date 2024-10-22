@@ -8,8 +8,5 @@
   "author": {
     "name": "Hamidreza Karamian, Vahid Fazaely"
   },
-  "dependencies": {
-    "com.ahengine.ustyler": "https://github.com/ahengine/UStyler.git#main"
-  },
   "type": "library"
 }
