@@ -1,0 +1,12 @@
+{
+  "name": "com.ahengine.mstyleguide",
+  "version": "1.0.0",
+  "displayName": "MStyleGuide",
+  "description": "MStyleGuide is a style guide designed by Vahid Fazaely with UStyler",
+  "unity": "2022.3",
+  "unityRelease": "0b5",
+  "author": {
+    "name": "Hamidreza Karamian, Vahid Fazaely"
+  },
+  "type": "library"
+}
